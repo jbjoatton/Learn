@@ -1,5 +1,5 @@
-First file.
-First important change.
-Second important change.
-Cool hotfix.
-First commit via SSH.
+1. First file.
+2. First important change.
+3. Second important change.
+4. Cool hotfix.
+5. First commit via SSH.

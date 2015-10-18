@@ -1,2 +1,2 @@
 # Learn
-Just a repo to learn GitHub.
+Just a repo to test GitHub.

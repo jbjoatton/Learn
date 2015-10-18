@@ -3,3 +3,4 @@
 3. Second important change.
 4. Cool hotfix.
 5. First commit via SSH.
+6. Fix a commit problem.

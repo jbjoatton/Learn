@@ -5,3 +5,4 @@
 5. First commit via SSH.
 6. Fix a commit problem.
 7. New start.
+8. Testing SSH.
